@@ -24,11 +24,14 @@ Git repos in which active resarch is being carried out:
 * [Learn](https://github.com/opencog/learn) - Symbolic learning ("mature", batch-based processing.)
 * [Agents](https://github.com/opencog/agents) - Refactoring learning for an interactive environment.
 * [Sensory](https://github.com/opencog/sensory) - Dataflow of graphlets to/from external world. Agents I/O system.
+* [Motor](https://github.com/opencog/motor) - Controlling the focus of sensory attention. Perception-action.
 
 ### OpenCog Fossils
-Older, abandoned and obsolete components. These were educational and fun, but development has
-halted. These projects are no longer maintained, but they do contain useful subsystems that
-might be salvageable for future use. This includes:
+Older, abandoned and obsolete components and experiments. These were attempts to build subsystems 
+with specific goals and ideas in mind. As experiments, they provided validation for certain design
+ideas. They were educational and fun, but turned out to be unworkable. Thus, development has
+halted. These projects are no longer maintained. They do contain useful subsystems that could be
+salvaged for future use. This includes:
 * PLN, URE, Attention, Ghost, Relex, R2L, ROS, Hanson Robotics Eva/Sophia
 * MOSES (but not as-moses, see below).
 * Any repo that is marked "read-only" or "obsolete".
