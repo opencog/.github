@@ -25,7 +25,7 @@ Git repos in which active resarch is being carried out:
 * [Agents](https://github.com/opencog/agents) - Refactoring learning for an interactive environment.
 * [Sensory](https://github.com/opencog/sensory) - Dataflow of graphlets to/from external world. Agents I/O system.
 * [Motor](https://github.com/opencog/motor) - Controlling the focus of sensory attention. Perception-action.
-* [Atomese-OpenCL](https://github.com/opencog/atomese-opencl) - Flowing data to OpenCL GPU's w/the sensory API.
+* [Atomese-SIMD](https://github.com/opencog/atomese-simd) - Flowing data to GPU's and other SIMD hardware w/the sensory API.
 
 ### OpenCog Fossils
 Older, abandoned and obsolete components and experiments. These were attempts to build subsystems 
