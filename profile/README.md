@@ -10,7 +10,7 @@ This project was pioneered by [Dr. Ben Goertzel](https://en.wikipedia.org/wiki/B
 Git repos fall into four categories:
 
 ### OpenCog AtomSpace
-The core of the system. As of 2024, it is active, stable and supported.
+The core of the system. As of 2025, it is active, stable and supported.
 
 * [AtomSpace](https://github.com/opencog/atomspace) - Hypergraph database and query engine.
 * [CogServer](https://github.com/opencog/cogserver) and [atomspace-cog](https://github.com/opencog/atomspace-cog) - Networking, json, websockets.
@@ -18,6 +18,7 @@ The core of the system. As of 2024, it is active, stable and supported.
 * [Proxy Nodes](https://wiki.opencog.org/w/ProxyNode) - Data routing (replacement for attention bank.)
 * [Link Grammar](https://github.com/opencog/link-grammar) - Maximal Planar Graph (MPG) parsing, natural lanuage parsing (NLP).
 * [Docker containers](https://github.com/opencog/docker) - System integration and demos.
+* [atomspace-pgres](https://github.com/opencog/atomspace-pgres) - Postgres StorageNode. Works, but old, deprecated.
 
 ### OpenCog Research
 Git repos in which active resarch is being carried out:
