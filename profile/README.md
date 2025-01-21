@@ -15,7 +15,8 @@ The core of the system. As of 2025, it is active, stable and supported.
 * [AtomSpace](https://github.com/opencog/atomspace) - Hypergraph database and query engine.
 * [CogServer](https://github.com/opencog/cogserver) and [atomspace-cog](https://github.com/opencog/atomspace-cog) - Networking, json, websockets.
 * [atomspace-rocks](https://github.com/opencog/atomspace-rocks) - Disk I/O storage, based on RocksDB.
-* [Proxy Nodes](https://wiki.opencog.org/w/ProxyNode) - Data routing (replacement for attention bank.)
+* [Proxy Nodes](https://wiki.opencog.org/w/ProxyNode) - Managing Atoms flowing through large Atomspaces. 
+* [Sparse Vectors/Matrix](https://github.com/opencog/matrix) - Working with graphs as (embeddings in) sparse vectors.
 * [Link Grammar](https://github.com/opencog/link-grammar) - Maximal Planar Graph (MPG) parsing, natural lanuage parsing (NLP).
 * [Docker containers](https://github.com/opencog/docker) - System integration and demos.
 * [atomspace-pgres](https://github.com/opencog/atomspace-pgres) - Postgres StorageNode. Works, but old, deprecated.
