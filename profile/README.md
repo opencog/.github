@@ -13,6 +13,7 @@ Git repos fall into four categories:
 The core of the system. As of 2025, it is active, stable and supported.
 
 * [AtomSpace](https://github.com/opencog/atomspace) - Hypergraph database and query engine.
+* [Storage](https://github.com/opencog/atomspace-storage) - Base class for saving, loading, sending and receiving Atoms and AtomSpaces
 * [CogServer](https://github.com/opencog/cogserver) and [atomspace-cog](https://github.com/opencog/atomspace-cog) - Networking, json, websockets.
 * [atomspace-rocks](https://github.com/opencog/atomspace-rocks) - Disk I/O storage, based on RocksDB.
 * [Proxy Nodes](https://wiki.opencog.org/w/ProxyNode) - Managing Atoms flowing through large Atomspaces. 
