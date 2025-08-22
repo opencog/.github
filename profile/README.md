@@ -51,7 +51,6 @@ These are the immature, incomplete, promising projects that haven't taken off ye
 * [Prolog-on-Atomspace](https://github.com/opencog/atomspace/tree/master/opencog/persist/prolog) - proof-of-concept
 * [Chemistry](https://github.com/opencog/cheminformatics) - Molecular bonds, molecular structural formulas (proof-of-concpept.)
 * [agi-bio](https://github.com/opencog/agi-bio) - Genomics, proteomics system used by MOZI and rejuve.bio
-* [visualization](https://github.com/opencog/visualization) - GUI for exploring AtomSpace contents.
 * [as-moses](https://github.com/opencog/as-moses) - Port of MOSES to the AtomSpace.
 * [Vision](https://github.com/opencog/vision) - Extracting structure from images, video (proof-of-concept.)
 * [Hyperon-on-top-of-atomspace](https://github.com/opencog/atomspace-metta) - Hyperon backwards-compat layer (proof-of-concept.)
