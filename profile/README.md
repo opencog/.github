@@ -24,11 +24,11 @@ The core of the system. As of 2025, it is active, stable and supported.
 
 ### OpenCog Research
 Git repos in which active resarch is being carried out:
+* [Sensory](https://github.com/opencog/sensory) - Dataflow of graphlets to/from external world. Agents I/O system.
+* [Atomese-SIMD](https://github.com/opencog/atomese-simd) - Flowing data to GPU's and other SIMD (OpenCL/CUDA) hardware w/the sensory API.
 * [Learn](https://github.com/opencog/learn) - Symbolic learning ("mature", batch-based processing.)
 * [Agents](https://github.com/opencog/agents) - Refactoring learning for an interactive environment.
-* [Sensory](https://github.com/opencog/sensory) - Dataflow of graphlets to/from external world. Agents I/O system.
 * [Motor](https://github.com/opencog/motor) - Controlling the focus of sensory attention. Perception-action.
-* [Atomese-SIMD](https://github.com/opencog/atomese-simd) - Flowing data to GPU's and other SIMD (OpenCL/CUDA) hardware w/the sensory API.
 
 ### OpenCog Fossils
 Older, abandoned and obsolete components and experiments. These were attempts to build subsystems 
@@ -46,12 +46,11 @@ Being developed by [Singularity.net](https://singularitynet.io).
 ### OpenCog Incubator
 These are the immature, incomplete, promising projects that haven't taken off yet.
 
+* [as-moses](https://github.com/opencog/as-moses) - Port of MOSES to the AtomSpace.
 * [SQL Bridge](https://github.com/opencog/atomspace-bridge) - Direct I/O between SQL and AtomSpace
-* [AtomSpace TypeScript](https://github.com/opencog/atomspace-typescript) - TypeScript API and Browser viewer - proof of concept.
 * [Prolog-on-Atomspace](https://github.com/opencog/atomspace/tree/master/opencog/persist/prolog) - proof-of-concept
 * [Chemistry](https://github.com/opencog/cheminformatics) - Molecular bonds, molecular structural formulas (proof-of-concpept.)
 * [agi-bio](https://github.com/opencog/agi-bio) - Genomics, proteomics system used by MOZI and rejuve.bio
-* [as-moses](https://github.com/opencog/as-moses) - Port of MOSES to the AtomSpace.
 * [Vision](https://github.com/opencog/vision) - Extracting structure from images, video (proof-of-concept.)
 * [Hyperon-on-top-of-atomspace](https://github.com/opencog/atomspace-metta) - Hyperon backwards-compat layer (proof-of-concept.)
 * [SpaceTime](https://github.com/opencog/spacetime) - Octree spatial bounding boxes and time intervals in Atomese.
